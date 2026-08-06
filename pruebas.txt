@@ -1,0 +1,4 @@
+Registro de pruebas de la rama rama-pruebas.
+
+- Verificar que la rama se puede crear desde master.
+- Confirmar que los commits quedan aislados.
